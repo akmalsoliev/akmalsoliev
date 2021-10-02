@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akmal Soliev
-- 👀 I’m interested in Machine Leaning, Deep Learning and AI
-- 💻 I'm currently working on: web scrapping and EDA of top real estate development websites to perform ML based forecasting, analytics and data visualisation. 
+- 🏢 Nunatac - Italy
+- 👀 I’m interested in: ML & DL 
 - 📫 How to reach me soliev@gmail.com
 
 <!---
