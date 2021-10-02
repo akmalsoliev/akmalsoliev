@@ -18,7 +18,7 @@
 </div>
 
 
-GitHub is used only for personal projects done during the non-working hours. 
+GitHub is used only for personal projects done during the non-work hours. 
 
 
 
