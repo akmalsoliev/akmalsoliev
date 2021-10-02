@@ -8,6 +8,8 @@
 
 - 📫 How to reach me soliev@gmail.com 
 
+-------------------------------
+
 <div align="center">
   
 [![Akmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=akmalsoliev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
