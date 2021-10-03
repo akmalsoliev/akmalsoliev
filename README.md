@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in: ML & DL 
 
-- 📫 How to reach me soliev@gmail.com 
+- 📫 How to reach me: soliev@gmail.com 
 
 -------------------------------
 
