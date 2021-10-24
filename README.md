@@ -4,9 +4,13 @@
 
 - 🏢 Nunatac - Italy 
 
-- 👀 I’m interested in: ML & DL 
+- 👀 I’m interested in: ML & DL projects 
 
 - 📫 How to reach me: soliev@gmail.com 
+
+- GitHub is used only for personal projects done during the non-work hours. 
+
+- Github won't be utilized for upcoming months - from Septebmer 2021 
 
 -------------------------------
 
@@ -16,10 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akmalsoliev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
-
-
-GitHub is used only for personal projects done during the non-work hours. 
-
 
 
 <!---
