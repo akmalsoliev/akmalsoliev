@@ -4,8 +4,6 @@
 
 - 🏢 Nunatac - Italy 
 
-- 👀 I’m interested in: ML & DL projects 
-
 - 📫 How to reach me: soliev@gmail.com 
 
 - GitHub is used only for personal projects done during the non-work hours. 
