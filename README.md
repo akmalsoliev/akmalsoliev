@@ -2,7 +2,7 @@
   <h1>Akmal Soliev</h1>
 </div>
 
-- 🏢 Nunatac - Italy 
+- 🏢 Alkemy - Italy 
 
 - 📫 How to reach me: soliev@gmail.com 
 
