@@ -2,7 +2,7 @@
   <h1>Akmal Soliev</h1>
 </div>
 
-- 📫 How to reach me: soliev@gmail.com 
+- 📫 How to reach me: soliev[at]gmail[dot]com 
 
 <!---
 akmalsoliev/akmalsoliev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
